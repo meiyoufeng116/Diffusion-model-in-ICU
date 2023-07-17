@@ -25,6 +25,14 @@ To train our model, you need modify the dataset path in config/config.json file.
 python train_c.py
 ```
 
+After training is complete, run inference.py to obtain the generated curves.
+
+```
+python inference.py
+```
+
+Then run the result.ipynb to get the results.
+
 
 
 ## Acknowledgments
