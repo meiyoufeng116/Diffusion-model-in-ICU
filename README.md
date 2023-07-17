@@ -16,6 +16,7 @@ Dependencies can be installed by:
 ```
 ## Dataset
 
+Due to the requirements of the data providers, we are unable to publicly share our dataset.
 
 ## Usage
 To train our model, you need modify the dataset path in config/config.json file. Then you can run the train_c.py.
